@@ -2,8 +2,6 @@
 
 > - Windows Only
 > - English Only
-> - Supported Resolutions: 1920x1080, 2560x1440 and 2560x1080 (Ultrawide) Fullscreen
-> - Party must have 4 members (Works for Single Player only)
 
 This Discord Rich Presence doesn't interact with the game in any ways. It works by scanning text in screen captures.
 
