@@ -9,7 +9,17 @@ This Discord Rich Presence doesn't interact with the game in any ways. It works 
 
 ## Guide
 
-Work in progress
+### 1. Install Python and download the project
+
+Require **Python 3.8 or newer**.
+
+🐍 [Download Python](https://www.python.org/downloads)
+
+📁 [Download the project](https://github.com/NatsumeLS/Honkai-Star-Rail-Rich-Presence/archive/refs/heads/main.zip)
+
+### 2. Start Discord Rich Presence
+
+**Open [Run.bat](Run.bat)** to start.
 
 ## Similar Projects
 
