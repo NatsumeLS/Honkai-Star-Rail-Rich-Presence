@@ -23,7 +23,7 @@ Require **Python 3.8 or newer**.
 
 ## Similar Projects
 
-- [NatsumeLS/Honkai-Star-Rail-Rich-Presence](https://github.com/NatsumeLS/Honkai-Star-Rail-Rich-Presence)
+- [NatsumeLS/Genshin-Impact-Rich-Presence](https://github.com/NatsumeLS/Genshin-Impact-Rich-Presence)
 
 ## Credits
 
